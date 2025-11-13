@@ -36,7 +36,7 @@ java Client
 
 ## 🐛Note
 The code has some bugs that you might encounter but It shouldn't be game breaking. Mostly some unhandled scenarios (for example typing a color number that doesnt exist)
-If you find any of these bugs making the game unplayable ,Please tell me so I can edit it ASAP.
+If you find any of these bugs making the game unplayable ,Please tell me so I can fix it ASAP.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
